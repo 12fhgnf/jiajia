@@ -25,5 +25,5 @@
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "爱意在艳阳高照中灿烂  思念在星火斑斓中沉沦",
 # 金句英文
-"note_en": "Love is shining in the bright sun, and yearning is sinking in the bright spark"
+"note_en": "Love shines brightly in the bright sun, and thoughts sink in the sparks"
 }
