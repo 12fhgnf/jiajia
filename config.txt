@@ -27,3 +27,7 @@
 # 金句英文
 "note_en": "Love is shining in the bright sun, and yearning is sinking in the bright spark"
 }
+
+
+
+
